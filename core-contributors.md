@@ -20,4 +20,4 @@ Core Contributors 核心贡献者
 | 张恩畅 | | | Yes | - |
 | li17 | | | Yes | - |
 | 火星 | | | Yes | - |
-| 严光红 | | | Yes | - |
+| 严光红 |@YGH200|ygh200@126.com| Yes | - |
