@@ -20,7 +20,7 @@ Core Contributors 核心贡献者
 | 张恩畅 | | | Yes | - |
 | li17 | | | Yes | - |
 | 火星 | [@gjw00001](https://github.com/gjw00001) | | Yes | - |
-| 严光红 | | | Yes | - |
+| 严光红 |@YGH200 https://github.com/YGH200| ygh200@126.com | Yes | Pending |
 | 老谢 | | | Yes | - |
 | yj | [@AqoursSunshine](https://github.com/AqoursSunshine) | | Not yet | Pending |
 | LouisAwesome | | | Yes |  |
